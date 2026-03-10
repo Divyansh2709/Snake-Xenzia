@@ -113,7 +113,17 @@ Difficulty is selected before starting the game.
 * High Score Panel
 * Game Over Screen
 
-*(You can add screenshots here later)*
+<img width="732" height="618" alt="image" src="https://github.com/user-attachments/assets/37be34cd-0d78-4d3f-8684-c567c918b630" />
+
+<img width="733" height="614" alt="image" src="https://github.com/user-attachments/assets/d17b39ae-226b-46a7-8e16-1010082d025e" />
+
+<img width="732" height="612" alt="image" src="https://github.com/user-attachments/assets/b14800c7-117d-41ab-b638-cad200fff372" />
+
+<img width="733" height="613" alt="image" src="https://github.com/user-attachments/assets/d7d7da92-cb47-432b-b4a7-92cb5acfac1c" />
+
+<img width="726" height="617" alt="image" src="https://github.com/user-attachments/assets/6eeeefde-0469-4394-956f-5a0e61388214" />
+
+<img width="734" height="612" alt="image" src="https://github.com/user-attachments/assets/8b8bb900-3fca-43c4-ba00-47d61aa5b76b" />
 
 ---
 
