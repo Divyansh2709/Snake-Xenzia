@@ -121,7 +121,7 @@ Difficulty is selected before starting the game.
 
 * Divyansh Gupta
 
-*(Add other contributors if working in a team)*
+* Harsh Agrahari
 
 ---
 
